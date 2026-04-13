@@ -1,0 +1,15 @@
+﻿Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+WebGL_Build/
+.vs/
+.idea/
+*.csproj
+*.sln
+.DS_Store
+Thumbs.db
