@@ -29,6 +29,7 @@ public class PlayerMovement : MonoBehaviour
         {
             audio.Play();
             Destroy(other.gameObject);
+            GameManager.Instance.AdicionarScore(10);
         }
     }
 }

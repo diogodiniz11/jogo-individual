@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Coletar
+  - Play
   layers:
   - Default
   - TransparentFX
